@@ -27,6 +27,11 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 	- Luminaire Selection from built-in Philips Luminaire Catalog 
 	- Standardised lux level lookups for different rooms.
 	- Luminaire placement to achieve uniform lux levels based on lux contours. 
+![Room A in DIALux Evo](./images/room-a.png)
+![Room A isolux lines](./images/room-a-isolux.png)
+![Lounge in DIALux Evo](./images/room-b.png)
+![Lounge isolux lines](./images/room-b-isolux.png)
+
 5. Cabling Scheme Design
 	- HT and LT cable length approximation.
 	- Cable selection from Pakistan Cables Catalog using
@@ -37,6 +42,3 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 	- Load balancing across all three phases.
 	- Mapping individual loads to circuit breakers. 
 	- Breaker sizing based on rated ampacity.
-
-![Room A in DIALux Evo](./images/room-a.png)
-![Lounge in DIALux Evo](./images/room-b.png)
