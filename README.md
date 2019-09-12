@@ -1,6 +1,8 @@
 # Lighting and Cabling Scheme Design for Residential Load
 ## Prepared as an end-of-semester Complex Engineering Problem-based project for Electrical Power Distribution and Utilization (EE-359) at the department of Electrical Engineering, NEDUET.
 
+For more details, please see the [project report](./epdu-cep-report.pdf).
+
 ## Group Members
 
 | Name|Roll Number|
