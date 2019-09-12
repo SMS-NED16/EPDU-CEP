@@ -1,8 +1,7 @@
 # Lighting and Cabling Scheme Design for Residential Load
+
 ## Prepared as an end-of-semester Complex Engineering Problem-based project for Electrical Power Distribution and Utilization (EE-359) at the department of Electrical Engineering, NEDUET.
 ![Residential Load Model in DIALux](./images/storey-view.png =250px)
-
-For more details, please see the [project report](./epdu-cep-report.pdf).
 
 ## Group Members
 
@@ -13,6 +12,9 @@ For more details, please see the [project report](./epdu-cep-report.pdf).
 |Malik Zain-ul-Hassan|EE-16171|
 
 From Section D, TE-EE 16-17, Fall '19 Semester
+
+## Report
+For more details, please see the [project report](./epdu-cep-report.pdf).
 
 ## Overview
 An apartment was modelled as a residential electrical load for the purpose of proposing a lighting, cabling, and elementary distribution board design in accordance with IEC standards. DIALux Evo was then used to
@@ -31,7 +33,6 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 ![Room A isolux lines](./images/room-a-isolux.png)
 ![Lounge in DIALux Evo](./images/room-b.png)
 ![Lounge isolux lines](./images/room-b-isolux.png)
-
 5. Cabling Scheme Design
 	- HT and LT cable length approximation.
 	- Cable selection from Pakistan Cables Catalog using
@@ -42,3 +43,4 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 	- Load balancing across all three phases.
 	- Mapping individual loads to circuit breakers. 
 	- Breaker sizing based on rated ampacity.
+![Distribution Board](./images/db-drawing.png)
