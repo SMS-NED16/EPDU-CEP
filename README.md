@@ -35,3 +35,6 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 	- Load balancing across all three phases.
 	- Mapping individual loads to circuit breakers. 
 	- Breaker sizing based on rated ampacity.
+
+![Room A in DIALux Evo](./images/room-a.png)
+![Lounge in DIALux Evo](./images/room-b.png)
