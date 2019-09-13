@@ -1,7 +1,7 @@
 # Lighting and Cabling Scheme Design for Residential Load
 
 ## Prepared as an end-of-semester Complex Engineering Problem-based project for Electrical Power Distribution and Utilization (EE-359) at the department of Electrical Engineering, NEDUET.
-![Residential Load Model in DIALux](./images/storey-view.png =250px)
+![Residential Load Model in DIALux](./images/storey-view.PNG)
 
 ## Group Members
 
@@ -29,10 +29,10 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 	- Luminaire Selection from built-in Philips Luminaire Catalog 
 	- Standardised lux level lookups for different rooms.
 	- Luminaire placement to achieve uniform lux levels based on lux contours. 
-![Room A in DIALux Evo](./images/room-a.png)
-![Room A isolux lines](./images/room-a-isolux.png)
-![Lounge in DIALux Evo](./images/room-b.png)
-![Lounge isolux lines](./images/room-b-isolux.png)
+![Room A in DIALux Evo](./images/room-a.PNG)
+![Room A isolux lines](./images/room-a-isolux.PNG)
+![Lounge in DIALux Evo](./images/room-b.PNG)
+![Lounge isolux lines](./images/room-b-isolux.PNG)
 5. Cabling Scheme Design
 	- HT and LT cable length approximation.
 	- Cable selection from Pakistan Cables Catalog using
@@ -43,4 +43,4 @@ An apartment was modelled as a residential electrical load for the purpose of pr
 	- Load balancing across all three phases.
 	- Mapping individual loads to circuit breakers. 
 	- Breaker sizing based on rated ampacity.
-![Distribution Board](./images/db-drawing.png)
+![Distribution Board](./images/db-drawing.PNG)
